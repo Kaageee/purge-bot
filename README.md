@@ -16,3 +16,5 @@ const fs = require('fs');
 
 client.login("")
 ```
+
+Enjoy :)
